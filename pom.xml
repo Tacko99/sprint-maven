@@ -41,7 +41,16 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+<dépendance>
+<groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-starter-test</artifactId>
+<scope>test</scope>
+</dépendance>
 
+<dépendance>
+<groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-starter-web</artifactId>
+</dépendance>
 	<build>
 		<plugins>
 			<plugin>
